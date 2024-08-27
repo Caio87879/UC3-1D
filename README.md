@@ -4,11 +4,17 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
+
 A linguagem JavaScript.
+
 String, number e boolean.
- A String é uma sequencia de caracteris, sendo elas números, simbolos e letras. Normalmente a String  fica no meio de duas aspas ("ABC"), ou no meio de aspas simples ('ABC')
+
+ A String é uma sequencia de caracteris, sendo elas números, simbolos e letras. Normalmente a String  fica no meio de duas aspas ("ABC"), ou no meio de aspas simples ('ABC').
+ 
  Os number pode ser utilizados para soma ou para dizer cada quantidade de coisas.
+ 
  O Boolean funciona igual verdadeiro ou falso, podendo criar textos interativos de perguntas.
+
 
 
 ## Atividades desenvolvidas
