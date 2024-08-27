@@ -15,8 +15,13 @@ String, number e boolean.
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
 
 Criamos uma farmacia no codepen usando o javascript. [ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/rNEYVGx) 
+
 Fizemos uma loja de frutas no codepen e usamos o javascript.[ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/jOjYQRr)
+
 Fizemos um sistema de senha no codepen usando a linguagem JavaScript. [ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/LYKOEvN)
+
 Foi feito uma biblioteca no codepen e usamos o javascript. [ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/QWXaJPN)
+
 A gente fez o sistema de nota escolares no codepen e utilizamos o Javascript. [ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/gONRKvV)
+
 Criamos o sistema de idade de uma festa para maiores e a gente usou o codepen com a linguagem Javascript. [ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/GRbEGQb)
