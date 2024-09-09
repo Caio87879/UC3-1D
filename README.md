@@ -5,10 +5,21 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
-A linguagem JavaScript.
+### A linguagem JavaScript.
 
-String, number e boolean.
+#### Variáveis
 
+Nos temos três formas de criar variáveis, sendo elas a var, let e const. As mais recomendadas são a let e a const.
+exemplo:
+```js
+const nome = Cleiton
+let sobrenome = Silva
+var idade = 78
+
+console.log(nome)
+console.log(sobrenome)
+console.log(idade)
+```
  A String é uma sequencia de caracteris, sendo elas números, simbolos e letras. Normalmente a String  fica no meio de duas aspas ("ABC"), ou no meio de aspas simples ('ABC').
  
  Os number pode ser utilizados para soma ou para dizer cada quantidade de coisas.
