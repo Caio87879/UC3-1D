@@ -11,7 +11,7 @@ Escreva aqui os conteúdos aprendidos.
  As variáveis é um tipo de recurso que pode armazena dados.
 Nos temos três formas de criar variáveis, sendo elas a var, let e const. As mais recomendadas são a let e a const.
 
-#####exemplo:
+##### exemplo:
 ```js
 const nome = "Cleiton"
 let sobrenome = "Silva"
@@ -26,7 +26,7 @@ Percebe-se que as três criam variáveis.
 #### Else e If
  Podemos fazer o progamar tomar decisões de acordo com as condições que botaremos no Else e If.
  
- #####Exemplo:
+ ##### Exemplo:
  ```js
 const senha = prompt("Digite a sua senha de acesso")
 if(senha == "Aborbora Estragada") {
@@ -39,6 +39,8 @@ if(senha == "Aborbora Estragada") {
 
  #### Console.log
   O "Console.log" pode ser usado para mostrar o resultado daquela varável.
+
+   ##### Exemplo:
   ```js
 const nome = Lucas
 
@@ -48,6 +50,8 @@ Quando usamos o "console.log" conseguimos imprimir a variável que foi criada no
 
 #### Prompt
 Podemos criar formas bem interativas com o "prompt"
+
+ ##### Exemplo:
 ```js
 const senha = prompt("Digite a sua senha de acesso")
 if(senha == "Aborbora Estragada") {
