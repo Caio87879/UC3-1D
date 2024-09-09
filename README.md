@@ -8,18 +8,55 @@ Escreva aqui os conteúdos aprendidos.
 ### A linguagem JavaScript.
 
 #### Variáveis
-
+ As variáveis é um tipo de recurso que pode armazena dados.
 Nos temos três formas de criar variáveis, sendo elas a var, let e const. As mais recomendadas são a let e a const.
-exemplo:
+
+#####exemplo:
 ```js
-const nome = Cleiton
-let sobrenome = Silva
+const nome = "Cleiton"
+let sobrenome = "Silva"
 var idade = 78
 
 console.log(nome)
 console.log(sobrenome)
 console.log(idade)
 ```
+Percebe-se que as três criam variáveis.
+
+#### Else e If
+ Podemos fazer o progamar tomar decisões de acordo com as condições que botaremos no Else e If.
+ 
+ #####Exemplo:
+ ```js
+const senha = prompt("Digite a sua senha de acesso")
+if(senha == "Aborbora Estragada") {
+ console.log(`Senha Correta`) 
+} else {
+  console.log("Senha incorreta, tente novamente!")
+}
+```
+ Podemos ver que o if é usando quando é verdadeiro, já o else são usados quando é falso.
+
+ #### Console.log
+  O "Console.log" pode ser usado para mostrar o resultado daquela varável.
+  ```js
+const nome = Lucas
+
+console.log(nome)
+```
+Quando usamos o "console.log" conseguimos imprimir a variável que foi criada no "const".
+
+#### Prompt
+Podemos criar formas bem interativas com o "prompt"
+```js
+const senha = prompt("Digite a sua senha de acesso")
+if(senha == "Aborbora Estragada") {
+ console.log(`Senha Correta`) 
+} else {
+  console.log("Senha incorreta, tente novamente!")
+}
+```
+Com a interação criada usando o "prompt" podemos dizer a senha para o programa identificar qual senha foi digitado.
  A String é uma sequencia de caracteris, sendo elas números, simbolos e letras. Normalmente a String  fica no meio de duas aspas ("ABC"), ou no meio de aspas simples ('ABC').
  
  Os number pode ser utilizados para soma ou para dizer cada quantidade de coisas.
