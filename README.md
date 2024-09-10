@@ -90,3 +90,5 @@ Foi feito uma biblioteca no codepen e usamos o javascript. [ACESSAR](https://cod
 A gente fez o sistema de nota escolares no codepen e utilizamos o Javascript. [ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/gONRKvV)
 
 Criamos o sistema de idade de uma festa para maiores e a gente usou o codepen com a linguagem Javascript. [ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/GRbEGQb)
+
+fizemos 10 métodos de arrasta utilizando o codepen. [ACESSAR](https://codepen.io/Caio-Marinho-the-flexboxer/pen/KKjZrYg)
