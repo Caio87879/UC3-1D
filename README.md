@@ -61,9 +61,16 @@ if(senha == "Aborbora Estragada") {
 }
 ```
 Com a interação criada usando o "prompt" podemos dizer a senha para o programa identificar qual senha foi digitado.
+
+#### String
+
  A String é uma sequencia de caracteris, sendo elas números, simbolos e letras. Normalmente a String  fica no meio de duas aspas ("ABC"), ou no meio de aspas simples ('ABC').
+
+ #### Number
  
- Os number pode ser utilizados para soma ou para dizer cada quantidade de coisas.
+ Os number pode ser utilizados para soma ou para dizer cada quantidade das coisas.
+
+ #### Boolean
  
  O Boolean funciona igual verdadeiro ou falso, podendo criar textos interativos de perguntas.
 
