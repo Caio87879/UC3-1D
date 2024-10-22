@@ -74,7 +74,18 @@ Com a interação criada usando o "prompt" podemos dizer a senha para o programa
  
  O Boolean funciona igual verdadeiro ou falso, podendo criar textos interativos de perguntas.
 
+#### Array
 
+##### Exemplo:
+```js
+//array
+
+const minério = ["Ruby", "Diamante", "Ouro", "Esmeralda", "Cobre", "Ferro", "Chumbo", "Urânio"]
+const separação = minério.join(" | ")
+
+console.log(minério) 
+console.log(separação)
+```
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
